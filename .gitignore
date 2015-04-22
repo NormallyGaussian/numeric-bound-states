@@ -1,0 +1,14 @@
+# Matlab
+*.eps
+*.pdf
+*.fig
+*.asv
+*.m~
+*.mat
+*.xlsx
+*.xls
+*.csv
+*.pyc
+*.log
+
+.DS_Store
