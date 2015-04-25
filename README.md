@@ -1,4 +1,4 @@
-# bound_states
+# numeric-bound-states
 Numerically computing bound states. This repository contains the source code for [this paper](http://www.unc.edu/~marzuola/MastersProject_MatthewHarris_Spring2013.pdf) and for any future research relating to computing bound states using the algorithm outlined in the paper.
 
 ## Note
