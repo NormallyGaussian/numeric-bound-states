@@ -10,5 +10,8 @@
 *.csv
 *.pyc
 *.log
+*.docx
+*.doc
 
+*.ipynb
 .DS_Store
